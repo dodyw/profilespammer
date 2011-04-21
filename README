@@ -1,0 +1,17 @@
+===============
+PROFILE SPAMMER
+===============
+
+Detect, clean and remove profile page spammer for indexu
+
+
+How to install
+==============
+
+Copy profilespammer.php file to /admin folder.
+Run the script in the browser.
+
+www.domain.com/admin/profilespammer.php
+
+
+If you need support, email me at support@nicecoder.com
